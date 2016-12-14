@@ -26,6 +26,4 @@ Setup Reachability enable in App delegate
 
 Feel Free to modify.
 
-
-
-
+Download Zip 
