@@ -2,7 +2,11 @@
 Its  a helper class for AFNETWORKING 3.x 
 inspired by VTNetworkingHelper
 
-Implementation and Using
+- Serialization JSON
+- Authentication Option
+- Custom HTTP Body
+
+Implementation and Using  
 
 /////////////////////////////////
 
@@ -16,6 +20,12 @@ Implementation and Using
 
 ////////////////////////////
 
-There is also no internet connection which can be change to enable it 
+There is also no internet connection action which can be change but need to enable it 
 Setup Reachability enable in App delegate
+
+
+Feel Free to modify.
+
+
+
 
